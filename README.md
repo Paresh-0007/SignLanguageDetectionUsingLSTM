@@ -64,7 +64,6 @@
 In today's world, hand gestures are used a lot, especially with new technology like Artificial Intelligence and Machine Learning. This helps in many areas like helping deaf people communicate, controlling robots, and even in medical work. This report talks about a modern way to understand American Sign Language (ASL) using computers. It looks at both still and moving hand signs. They used a tool called MediaPipe from Google to find where the hand is, and they made their own set of pictures to test it. They used a type of computer program called LSTM from Tensorflow to understand the signs, and it worked really well. This is a big step in helping people who can't speak to be understood better. Communication is really important for those people who can't hear or speak. They use sign language, but many people don't understand it. Computers can help by learning to understand sign language and turn it into words. Some systems can already do this for Indian Sign Language (ISL), but they are slow. This paper talks about making a system that can understand American Sign Language in real-time. They used a regular camera to watch people signing, and they trained the computer to understand it quickly using a method called transfer learning. Even though they didn't have a lot of examples, the computer still did a good job, which is promising for helping people communicate better.
 <br/>
 <br/>
-<a href="https://github.com/ShaanCoding/ReadME-Generator/"><strong>Explore the docs »</strong></a>
 <br/>
 <br/>
 </p>
