@@ -56,7 +56,7 @@
  
 <br/>
 <div align="center">
-<a href="https://github.com/ShaanCoding/ReadME-Generator">
+<a href="https://github.com/IMMORTAL-blip/SignLanguageDetectionUsingLSTM/SignLanguageDetectionUsingLstm/Screenshot 2024-04-02 150014.png">
 <img src="https://source.unsplash.com/random/" alt="Logo" width="80" height="80">
 </a>
 <h3 align="center">Sign Language Detection Using Lstm and Mediapipe</h3>
