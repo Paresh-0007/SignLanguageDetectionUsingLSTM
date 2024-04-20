@@ -130,7 +130,7 @@ Enjoy!!!
 
 Demonstration
 
-![Unstyled](https://github.com/evarghese563/Images/blob/main/Sign/unstyled.gif)
+![Unstyled](https://github.com/IMMORTAL-blip/SignLanguageDetectionUsingLSTM/blob/main/SignLanguageDetectionUsingLstm/Screenshot%202024-04-02%20150014.png)
  ## License
 
 Distributed under the MIT License. See [MIT License](https://opensource.org/licenses/MIT) for more information.
@@ -138,4 +138,4 @@ Distributed under the MIT License. See [MIT License](https://opensource.org/lice
 
 Your Name - [Paresh Gupta](https://www.linkedin.com/in/paresh-gupta-167479257/) - pareshgupta0007@gmail.com
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Project Link: [https://github.com/IMMORTAL-blip/SignLanguageDetectionUsingLSTM](https://github.com/IMMORTAL-blip/SignLanguageDetectionUsingLSTM)
