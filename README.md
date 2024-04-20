@@ -56,8 +56,8 @@
  
 <br/>
 <div align="center">
-<a href="https://github.com/IMMORTAL-blip/SignLanguageDetectionUsingLSTM/SignLanguageDetectionUsingLstm/Screenshot 2024-04-02 150014.png">
-<img src="https://github.com/IMMORTAL-blip/SignLanguageDetectionUsingLSTM/SignLanguageDetectionUsingLstm/Screenshot 2024-04-02 150014.png">
+<a href="https://github.com/IMMORTAL-blip/SignLanguageDetectionUsingLSTM/blob/main/SignLanguageDetectionUsingLstm/Screenshot%202024-04-02%20150014.png">
+<img src="https://github.com/IMMORTAL-blip/SignLanguageDetectionUsingLSTM/blob/main/SignLanguageDetectionUsingLstm/Screenshot%202024-04-02%20150014.png">
 </a>
 <h3 align="center">Sign Language Detection Using Lstm and Mediapipe</h3>
 <p align="center">
