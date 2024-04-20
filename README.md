@@ -71,7 +71,7 @@ In today's world, hand gestures are used a lot, especially with new technology l
 
  ## About The Project
 
-![Product Screenshot](https://github.com/IMMORTAL-blip/SignLanguageDetectionUsingLSTM/blob/main/SignLanguageDetectionUsingLstm/project_demonstration7079.gif)
+![Product Screenshot](https://github.com/IMMORTAL-blip/SignLanguageDetectionUsingLSTM/blob/main/SignLanguageDetectionUsingLstm/Screenshot%202024-04-02%20141355.png)
 
 Sign language recognition aims to bridge communication gaps between the deaf and hearing communities by translating sign language into text. This technology detects and interprets the intricate hand movements and gestures to inherent in sign language. Its purpose is to facilitate real-time communication for the deaf, enabling them to interact more seamlessly with others, access educational resources, and participate fully in society. Sign language recognition systems strive for accuracy and efficiency, empowering individuals with hearing impairments to express themselves fluently and be understood by a wider audience.
 
