@@ -129,7 +129,7 @@ Enjoy!!!
 
 Demonstration
 
-![Unstyled](https://github.com/IMMORTAL-blip/SignLanguageDetectionUsingLSTM/blob/main/SignLanguageDetectionUsingLstm/project_demonstration7079.gif)
+<img src="https://github.com/IMMORTAL-blip/SignLanguageDetectionUsingLSTM/blob/main/SignLanguageDetectionUsingLstm/project_demonstration7079.gif" height="1080" width="1920">
  ## License
 
 Distributed under the MIT License. See [MIT License](https://opensource.org/licenses/MIT) for more information.
